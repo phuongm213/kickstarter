@@ -65,7 +65,7 @@ h2 {
 button {
     font-family: "Lato", sans-serif;
     font-weight: bold;
-    background: #87C442;
+    background: #2DC990;
     background-image: -webkit-gradient(linear,50% 0,50% 100%,color-stop(0%,#9FD04F),color-stop(100%,#87C442));
     background-image: -webkit-linear-gradient(#9FD04F,#87C442);
     background-image: -moz-linear-gradient(#9FD04F,#87C442);
