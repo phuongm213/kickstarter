@@ -22,7 +22,7 @@ a, a:visited, a:active, a:hover {
 }
 
 h1 {
-    background-color: #000;
+    background-color: #CEF6F5;
     color: #fff;
     padding: 10px;
     margin: 0px 0px 30px 0px;
@@ -63,7 +63,7 @@ h2 {
 
 
 button {
-    font-family: "Open Sans", sans-serif;
+    font-family: "Lato", sans-serif;
     font-weight: bold;
     background: #87C442;
     background-image: -webkit-gradient(linear,50% 0,50% 100%,color-stop(0%,#9FD04F),color-stop(100%,#87C442));
