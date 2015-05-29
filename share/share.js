@@ -23,7 +23,7 @@ $(function() {
     
     $('.twitter').on('click', function() {
         var loc = encodeURIComponent('http://bit.ly/somawater'),
-                title = "Beautifully innovative all-natural water filters by Soma — ",
+                title = "P.MAI just launched the perfect bag for modern women. Carry on, beautifully.",
                 w = 580, h = 300,
                 left = (screen.width/2)-(w/2),
                 top = (screen.height/2)-(h/2);
