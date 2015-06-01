@@ -32,7 +32,7 @@ $(function() {
     });
     
     $('.play').on('click', function() {
-        window.location.href = "bit.ly/pmaikickstart";
+        window.location.href = "http://kck.st/1PZQut7";
     });
     
 });
