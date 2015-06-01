@@ -17,7 +17,7 @@ $(function() {
             if ((screen.width < 480) || (screen.height < 480)) {
                 window.open ('http://www.facebook.com/share.php?u=http://bit.ly/pmaikickstart', '', 'toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=no, resizable=no, copyhistory=no, width='+w+', height='+h+', top='+top+', left='+left);
             } else {
-                window.open ('http://www.facebook.com/share.php?u=http://bit.ly/bit.ly/pmaikickstart', '', 'toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=no, resizable=no, copyhistory=no, width='+w+', height='+h+', top='+top+', left='+left);   
+                window.open ('http://www.facebook.com/share.php?u=http://bit.ly/pmaikickstart', '', 'toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=no, resizable=no, copyhistory=no, width='+w+', height='+h+', top='+top+', left='+left);   
             }
     });
     
