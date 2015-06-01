@@ -22,13 +22,13 @@ $(function() {
     });
     
     $('.twitter').on('click', function() {
-        var loc = encodeURIComponent('bit.ly/pmaikickstart'),
+        var loc = encodeURIComponent('http://bit.ly/pmaikickstart'),
                 title = "P.MAI just launched the perfect bag for modern women. Carry on, beautifully. @shoppmai",
                 w = 580, h = 300,
                 left = (screen.width/2)-(w/2),
                 top = (screen.height/2)-(h/2);
                 
-            window.open('http://twitter.com/share?text=' + title + '&url=bit.ly/pmaikickstart' + loc, '', 'height=' + h + ', width=' + w + ', top='+top +', left='+ left +', toolbar=0, location=0, menubar=0, directories=0, scrollbars=0');
+            window.open('http://twitter.com/share?text=' + title + '&url=' + loc, '', 'height=' + h + ', width=' + w + ', top='+top +', left='+ left +', toolbar=0, location=0, menubar=0, directories=0, scrollbars=0');
     });
     
     $('.play').on('click', function() {
